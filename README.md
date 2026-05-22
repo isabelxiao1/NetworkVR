@@ -28,19 +28,25 @@ The current version of the project contains three built-in example networks:
 
 A social network dataset representing friendships between members of a university karate club.
 
+<img width="1280" height="654" alt="karate_photo" src="https://github.com/user-attachments/assets/fca61fab-0326-4cb2-9526-ce714b969100" />
+
 ---
 
 ## 2. University Network
 
 A network visualization of universities and their relationships.
 
-(More information coming soon.)
+<img width="1280" height="650" alt="interlock_photo" src="https://github.com/user-attachments/assets/fa093179-dcdc-4e95-9f6a-8148f8351de2" />
+
 
 ---
 
 ## 3. UVA Faculty Network
 
 A visualization of UVA faculty members and their associated academic fields.
+
+<img width="1280" height="656" alt="uva_photo" src="https://github.com/user-attachments/assets/a481bd57-afa3-401a-a309-dae437a8a498" />
+
 
 ---
 
