@@ -6,6 +6,9 @@ NetworkVR allows users to explore graph and network datasets spatially in VR. No
 
 The project was developed in Unity using C#, OpenXR, and the XR Interaction Toolkit.
 
+<img width="1280" height="654" alt="Screenshot 2026-05-21 124539" src="https://github.com/user-attachments/assets/ac3c7d8c-fd7b-4e65-840a-df596b7b96bc" />
+
+
 ---
 
 # Features
