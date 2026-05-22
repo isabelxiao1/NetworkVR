@@ -6,5 +6,21 @@
 
 NetworkVR allows you to view large 3D networks in virtual reality! 
 
+## Requirements
+- Unity 2022.3 LTS
+- OpenXR
+- XR Interaction Toolkit
+
+## Setup
+1. Clone the repo
+2. Install Git LFS
+3. Open with Unity Hub
+4. Load SampleScene.unity
+
+## Controls
+- Trigger: Select
+- Grip: Grab
+- Thumbstick: Move
+
 How to download coming soon
 
